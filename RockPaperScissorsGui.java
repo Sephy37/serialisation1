@@ -646,6 +646,11 @@ public class RockPaperScissorsGui extends JFrame{
     }
 
 
+    public void hello(){
+
+    }
+
+
 
 
 
